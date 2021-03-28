@@ -7,7 +7,7 @@ recommended : install python 3.8.X
  
  after everything required is installed,
  
- goto flaskblog folder
+ goto CoreyImp folder
  
  
  in cmd run the run.py file by typing:
